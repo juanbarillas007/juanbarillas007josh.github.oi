@@ -26,7 +26,7 @@
 #letras7 {
     float: left;
     text-align: left;
-    margin: 150px;
+    margin: 100px;
 }
 
 #letras1,
@@ -34,7 +34,7 @@
 #letras6 {
     float: right;
     text-align: left;
-    margin: 150px;
+    margin: 100px;
 }
 
 #contenedor {
