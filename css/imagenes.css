@@ -42,3 +42,8 @@
 #contenedor {
     line-height: 20px;
 }
+
+#aniversario {
+    color: rgb(90, 23, 245);
+    font-size: 25px;
+}
