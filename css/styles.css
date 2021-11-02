@@ -1,32 +1,38 @@
-                #letras,
-        #letras2,
-        #letras3,
-        #letras4,
-        #letras5,
-        #letras6,
-        #letras7,
-        #letras8 {
-            color: rgb(79, 5, 252);
-            font-size: 25px;
-        }
-        
-        @media screen and (max-width: 980px) {
-            #contenedor {
-                width: 90%;
-            }
-            #contenido {
-                width: 60%;
-            }
-            #barra_lateral {
-                width: 30%;
-            }
-            @media screen and (max-width: 480px) {
-                #encabezado {
-                    height: auto;
-                }
-                #contenido {
-                    width: auto;
-                }
-                #barra_lateral {
-                    display: none;
-                }
+                                                                                                                                                #letras0,
+                                                                                                                                        #letras,
+                                                                                                                                        #letras2,
+                                                                                                                                        #letras3,
+                                                                                                                                        #letras4,
+                                                                                                                                        #letras5,
+                                                                                                                                        #letras6,
+                                                                                                                                        #letras7,
+                                                                                                                                        #letras8 {
+                                                                                                                                            color: rgb(90, 23, 245);
+                                                                                                                                            font-size: 25px;
+                                                                                                                                        }
+                                                                                                                                        
+                                                                                                                                        @media screen and (max-width: 980px) {
+                                                                                                                                            #contenedor {
+                                                                                                                                                width: 90%;
+                                                                                                                                            }
+                                                                                                                                            #contenido {
+                                                                                                                                                width: 60%;
+                                                                                                                                            }
+                                                                                                                                            #barra_lateral {
+                                                                                                                                                width: 30%;
+                                                                                                                                            }
+                                                                                                                                            @media screen and (max-width: 480px) {
+                                                                                                                                                #encabezado {
+                                                                                                                                                    height: auto;
+                                                                                                                                                }
+                                                                                                                                                #contenido {
+                                                                                                                                                    width: auto;
+                                                                                                                                                }
+                                                                                                                                                #barra_lateral {
+                                                                                                                                                    display: none;
+                                                                                                                                                }
+                                                                                                                                                ,
+                                                                                                                                                #josh5,
+                                                                                                                                                #josh7 {
+                                                                                                                                                    float: left;
+                                                                                                                                                }

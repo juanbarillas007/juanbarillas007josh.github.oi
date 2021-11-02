@@ -1,0 +1,42 @@
+#josh3,
+#josh5,
+#josh7 {
+    float: right;
+    width: 550px;
+    padding: 100px;
+}
+
+#josh2,
+#josh4,
+#josh6 {
+    float: left;
+    width: 550px;
+    padding: 100px;
+}
+
+#letras0,
+#letras2 {
+    text-align: center;
+}
+
+#letras3,
+#letras5,
+#letras7 {
+    text-size-adjust: left;
+    tex
+}
+
+#letras4,
+#letras6 {
+    text-size-adjust: right;
+}
+
+#contenedor {
+    margin: 31px;
+    line-height: 20px;
+    padding: 0;
+}
+
+img.alineadotextoimagencentro {
+    vertical-align: middle;
+}
