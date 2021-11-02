@@ -24,16 +24,20 @@
 #letras3,
 #letras5,
 #letras7 {
-    text-align: left;
+    text-align: right;
     margin: 400px;
 }
 
 #letras4,
 #letras6 {
-    text-align: right;
+    text-align: left;
     margin: 400px;
 }
 
 #contenedor {
     line-height: 20px;
+}
+
+#josh2 {
+    margin: 30px;
 }
