@@ -4,6 +4,7 @@
     float: right;
     width: 550px;
     padding: 100px;
+    margin: 15px;
 }
 
 #josh2,
@@ -12,6 +13,7 @@
     float: left;
     width: 550px;
     padding: 100px;
+    margin: 15px;
 }
 
 #letras0,
@@ -22,16 +24,16 @@
 #letras3,
 #letras5,
 #letras7 {
-    text-size-adjust: left;
-    tex
+    text-align: left;
+    margin: 400px;
 }
 
 #letras4,
 #letras6 {
-    text-size-adjust: right;
+    text-align: right;
+    margin: 400px;
 }
 
 #contenedor {
-    margin: 30px;
     line-height: 20px;
 }
