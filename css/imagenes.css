@@ -24,14 +24,16 @@
 #letras3,
 #letras5,
 #letras7 {
+    float: none;
     text-align: left;
-    margin: 250px;
+    margin: 350px;
 }
 
 #letras4,
 #letras6 {
+    float: none;
     text-align: left;
-    margin: 250px;
+    margin: 350px;
 }
 
 #contenedor {
