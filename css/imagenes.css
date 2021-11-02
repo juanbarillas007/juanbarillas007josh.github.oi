@@ -26,14 +26,14 @@
 #letras7 {
     float: left;
     text-align: left;
-    margin: 350px;
+    margin: 150px;
 }
 
 #letras4,
 #letras6 {
     float: right;
     text-align: left;
-    margin: 350px;
+    margin: 150px;
 }
 
 #contenedor {
