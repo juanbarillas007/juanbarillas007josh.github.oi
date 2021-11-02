@@ -24,7 +24,7 @@
 #letras3,
 #letras5,
 #letras7 {
-    text-align: right;
+    text-align: left;
     margin: 400px;
 }
 
@@ -36,8 +36,9 @@
 
 #contenedor {
     line-height: 20px;
+    display: inline-block;
 }
 
 #josh2 {
-    margin: 30px;
+    margin: 10px;
 }
