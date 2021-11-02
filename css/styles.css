@@ -1,37 +1,37 @@
-                                                                                                                                                                #letras0,
-                                                                                                                                                        #letras1,
-                                                                                                                                                        #letras2,
-                                                                                                                                                        #letras3,
-                                                                                                                                                        #letras4,
-                                                                                                                                                        #letras5,
-                                                                                                                                                        #letras6,
-                                                                                                                                                        #letras7,
-                                                                                                                                                        #letras8 {
-                                                                                                                                                            color: rgb(90, 23, 245);
-                                                                                                                                                            font-size: 25px;
-                                                                                                                                                        }
-                                                                                                                                                        
-                                                                                                                                                        @media screen and (max-width: 780px) {
-                                                                                                                                                            #contenedor {
-                                                                                                                                                                width: 80%;
-                                                                                                                                                            }
-                                                                                                                                                            #contenido {
-                                                                                                                                                                width: 440%;
-                                                                                                                                                            }
-                                                                                                                                                            #barra_lateral {
-                                                                                                                                                                width: 30%;
-                                                                                                                                                            }
-                                                                                                                                                            @media screen and (max-width: 480px) {
-                                                                                                                                                                #encabezado {
-                                                                                                                                                                    height: auto;
+                                                                                                                                                                        #letras0,
+                                                                                                                                                                #letras1,
+                                                                                                                                                                #letras2,
+                                                                                                                                                                #letras3,
+                                                                                                                                                                #letras4,
+                                                                                                                                                                #letras5,
+                                                                                                                                                                #letras6,
+                                                                                                                                                                #letras7,
+                                                                                                                                                                #letras8 {
+                                                                                                                                                                    color: rgb(90, 23, 245);
+                                                                                                                                                                    font-size: 25px;
                                                                                                                                                                 }
-                                                                                                                                                                #contenido {
-                                                                                                                                                                    width: auto;
-                                                                                                                                                                }
-                                                                                                                                                                #barra_lateral {
-                                                                                                                                                                    display: none;
-                                                                                                                                                                }
-                                                                                                                                                                #josh5,
-                                                                                                                                                                #josh7 {
-                                                                                                                                                                    float: left;
-                                                                                                                                                                }
+                                                                                                                                                                
+                                                                                                                                                                @media screen and (max-width: 780px) {
+                                                                                                                                                                    #contenedor {
+                                                                                                                                                                        width: 80%;
+                                                                                                                                                                    }
+                                                                                                                                                                    #contenido {
+                                                                                                                                                                        width: 440%;
+                                                                                                                                                                    }
+                                                                                                                                                                    #barra_lateral {
+                                                                                                                                                                        width: 30%;
+                                                                                                                                                                    }
+                                                                                                                                                                    @media screen and (max-width: 480px) {
+                                                                                                                                                                        #encabezado {
+                                                                                                                                                                            height: 50%;
+                                                                                                                                                                        }
+                                                                                                                                                                        #contenido {
+                                                                                                                                                                            width: 20%;
+                                                                                                                                                                        }
+                                                                                                                                                                        #barra_lateral {
+                                                                                                                                                                            display: none;
+                                                                                                                                                                        }
+                                                                                                                                                                        #josh5,
+                                                                                                                                                                        #josh7 {
+                                                                                                                                                                            float: left;
+                                                                                                                                                                        }
